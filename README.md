@@ -1,2 +1,2 @@
-# PSProject26
+# StatsProject26
 Shiny app for university. Plots several functions.
